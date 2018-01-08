@@ -3,7 +3,7 @@ Link: https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/learn
 
 ## Content
 ### Section 1
-Lecture 1 
+Lecture 1 Warning about Java 9!
 <br>
 Lecture 2 Introduction, and Getting Set Up 
  * JDK install site: http://www.oracle.com/technetwork/java/javase/downloads/index.html
