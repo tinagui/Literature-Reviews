@@ -2,10 +2,10 @@
 
 ### Social Media Influence
 
---Social Media data with sales prediction
+- Social Media data with sales prediction
 https://aaltodoc.aalto.fi/bitstream/handle/123456789/19413/master_Mäkinen_Dominik_2016.pdf?sequence=1
 
-Social Media data with stock prices
+- Social Media data with stock prices
 http://www.diva-portal.se/smash/get/diva2:811087/FULLTEXT01.pdf
 
 Social Media data with company performance
